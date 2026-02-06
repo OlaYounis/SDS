@@ -77,8 +77,8 @@ This method gives you more control and preserves data types correctly.
 3. Browse to your downloaded `financial_transactions.csv` file
 4. In the preview window:
    - Check that columns look correct
-   - Ensure `date` column is recognized as Date format
-   - Ensure `amount` column is recognized as Number format
+   - Ensure `date` column is recognised as Date format
+   - Ensure `amount` column is recognised as Number format
 5. Click **Load**
 6. **Save as Excel Workbook** (`.xlsx`) format: `File > Save As > Excel Workbook`
 7. Name it: `Lab1_DataCleaning_[YourName].xlsx`
