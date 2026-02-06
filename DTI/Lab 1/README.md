@@ -426,11 +426,17 @@ In finance, you **investigate outliers, not delete them**. Documentation is as i
 
 ---
 
-## Next Steps
+## 📥 Need a Reference Solution?
 
-After Lab 1, continue to:
-- **Lab 2:** Exploratory Data Analysis
-- **Lab 3:** Data Visualisation
-- **Lab 4:** Basic Automation
+If you'd like to compare your work or need a completed example for reference:
 
-**Keep your cleaned dataset—you'll use it in Lab 2!**
+**[Download the completed workbook: Data_Cleaning_Excel.xlsx](Data_Cleaning_Excel.xlsx)**
+
+This file includes:
+- All cleaning steps completed
+- Summary tables (Data Quality + Transaction Summary)
+- All three visualisations
+- Cleaning Log with documented decisions
+- Cleaned dataset ready for Lab 2
+
+**Note:** Try to complete the lab yourself first—hands-on practice is essential for building real data skills!
