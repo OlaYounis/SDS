@@ -4,7 +4,7 @@
 
 In the real world, data is messy. Financial datasets contain missing values, outliers, and inconsistencies. Before meaningful analysis, you must clean it.
 
-**The Cost:** Poor data quality costs organisations $12.9M annually on average.
+**The Cost:** Poor data quality costs organisations millions annually on average.
 
 **Your Role:** Finance professionals spend 60-80% of their time on data preparation. This lab teaches systematic techniques for real-world data quality issues.
 
@@ -39,18 +39,11 @@ Ensure consistency: "North" vs "north" vs "NORTH" → all become "North"
 
 ---
 
-## Your Task: Choose Your Tool
-
-### 🐍 Lab 1A: Python (Google Colab)
-**Best for:** Technical data science skills  
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OlaYounis/SDS-Labs/blob/main/L6-DTI/Lab1/Lab1A_Data_Cleaning.ipynb)
-
 ### 📊 Lab 1B: Excel
 **Best for:** Finance professionals  
 
 
-📥 [Download Excel Workbook](https://github.com/OlaYounis/SDS-Labs/raw/main/L6-DTI/Lab1/Lab1B_Data_Cleaning_Excel.xlsx)
+📥 [Download Excel Workbook](https://github.com/OlaYounis/ACCA/raw/refs/heads/main/DTI/Lab%201/Data_Cleaning_Excel.xlsx)
 
 ---
 ---
@@ -85,15 +78,3 @@ Your cleaned dataset should have:
 
 In finance, you **investigate outliers, not delete them**. Documentation is as important as the cleaning itself.
 
-**Ready?** Choose your tool above and start! 🚀
-
----
-
-## Next Steps
-
-After Lab 1, continue to:
-- **Lab 2:** Exploratory Data Analysis
-- **Lab 3:** Data Visualisation
-- **Lab 4:** Basic Automation
-
-**Keep your cleaned dataset—you'll use it in Lab 2!**
